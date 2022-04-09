@@ -1,8 +1,8 @@
 # Translation Transformers Rediscover Inherent Data Domains
 
-This repository is the outdated official implementation of [Translation Transformers Rediscover Inherent Data Domains](https://aclanthology.org/2021.wmt-1.65.pdf). 
+This repository is the official implementation of [Translation Transformers Rediscover Inherent Data Domains](https://aclanthology.org/2021.wmt-1.65.pdf). 
 
-Instead, see [this code repo](https://github.com/TartuNLP/inherent-domains-wmt21) for paper notebooks and NMT training scipts and [this repo](https://github.com/maksym-del/domain_clusters) for updated clustering pipeline.
+Also see [this repo](https://github.com/maksym-del/domain_clusters) for updated clustering pipeline.
 
 NMT training and data scripts are in the ```scripts_nmt``` folder.
 
